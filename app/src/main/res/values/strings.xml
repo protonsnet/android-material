@@ -7,4 +7,20 @@
     <string name="label_bottom_app_bar">Bottom App Bar</string>
     <string name="label_snack_bars">Snackbars</string>
     <string name="label_bottom_navigation">Bottom Navigation</string>
+    <string name="btn_contained">Button Contained</string>
+    <string name="btn_outlined">Button Outlined</string>
+    <string name="btn_text">Button Text</string>
+    <string name="label">Label</string>
+    <string name="help_text">Help text</string>
+    <string name="menu_title">Page</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="star">Star</string>
+    <string name="content_description_home">Content description home</string>
+    <string name="content_description_favorite">Content description favorite</string>
+    <string name="content_description_search">Content description search</string>
+    <string name="content_description_more">Content description more</string>
+    <string name="content_description_star">Content description star</string>
 </resources>
